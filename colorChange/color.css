@@ -1,4 +1,4 @@
-.container2
+.container
 {
     border:1px solid red;
     width:75%;
@@ -6,7 +6,7 @@
     text-align:center;
 }
 
-.flex-box-container2
+.flex-box-container
 {
     display: flex;
     justify-content: space-around;
